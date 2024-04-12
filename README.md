@@ -15,7 +15,7 @@
 <p>Artificial Intelligence (AI) is not just a buzzword in the medical field; it's a force revolutionizing every aspect of healthcare.</p>
 
 <p align="center">
-  <img src="https://github.com/366-AI-Journey-2024/Day2/raw/main/assets/73797011/f1bf6b3a-051e-4328-9218-c5b64ce44bba" alt="AI in Healthcare">
+  <img src="Images/Day2.jpg" alt="AI in Healthcare">
 </p>
 
 
